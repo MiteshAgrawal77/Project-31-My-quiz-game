@@ -1,0 +1,11 @@
+class quiz{
+
+    constructor(){
+
+    }
+
+    display(){
+
+    }
+
+}
